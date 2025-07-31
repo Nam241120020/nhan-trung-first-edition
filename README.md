@@ -16,3 +16,5 @@ Mọi chỉnh sửa dù nhỏ sẽ làm thay đổi mã SHA256.
 ## ❗️Lưu ý pháp lý
 Tác phẩm này được bảo hộ theo Luật Sở Hữu Trí Tuệ Việt Nam và Công ước Berne.  
 Mọi hành vi sao chép, phát hành, chuyển thể hoặc thương mại hóa đều phải có sự đồng ý bằng văn bản từ tác giả.
+🔗 Tải file gốc từ Google Drive (chế độ chỉ xem):  
+[[Link Google Drive của bạn]](https://docs.google.com/document/d/1t1mfwq6WcfWldqiCgjX-aVj_grqBlBay/edit?usp=sharing&ouid=108711321766297630283&rtpof=true&sd=true)
